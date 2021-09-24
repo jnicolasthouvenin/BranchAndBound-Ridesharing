@@ -1,10 +1,5 @@
 # Branch and Bound - Real Time Ridesharing
 
-Sudent project as part of the course "Discrete and Combinatorial Optimization".
+This project is a part of the course Discrete and Combinatorial Optimization from the University of Nantes (M1 Optimization and Operational Research - 2020 - 2021).
 
-Master 1 Optimization et Operational Research - University of Nantes
-
-# Sudents
-Lucas Baussay : LucasBaussay
-
-Jules Nicolas-Thouvenin : jnicolasthouvenin
+Keywords : <code>Real Time Scheduling</code> <code>Branch and Bound</code>
